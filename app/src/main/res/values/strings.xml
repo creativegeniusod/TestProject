@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="productionText">Production</string>
+    <string name="qaText">QA</string>
+</resources>
